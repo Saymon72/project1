@@ -1,0 +1,68 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-style: bolt;
+    text-align: center;
+    font-size: 70px;
+}
+
+h2{
+    color: rgb(40, 66, 40);
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    color: rgb(2, 10, 7);
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px
+}
+
+.text{
+    color: green;
+    font-style: italic;
+    text-transform:uppercase;
+}
+
+.marijane{
+    color: black;
+    font-weight: 800;
+}
+
+p{
+    text-align: left;
+}
+
+.list{
+    width: 100%;
+}
+
+.list ul{
+    text-align: center;
+    list-style: none;
+}
+
+.list li{
+    font-size: 20px;
+    color: rgb(34, 133, 34);
+}
+
+.img1{
+    display: block;
+    margin: 0 auto;
+}
+
+.textblock{
+    color: rgb(1, 5, 1);
+    font-style: italic;
+    font-weight: 800;
+}
+
+.img2{
+    display: block;
+    margin: 0 auto;
+}
